@@ -1,9 +1,9 @@
-<h1 align="center"> Haykal Hanif AKA "Hykalseo"</h1>
+<h1 align="center">Haykal Hanif AKA "Hykalseo"</h1>
 <h3 align="center">I'm a guy who do technological business</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hykalseo&label=Profile%20views&color=0e75b6&style=flat" alt="hykalseo" /> </p>
 
-- 📫 How to reach me **mhaykalhanif.29@gmail.com**
+- 📫 Mail Me: **mhaykalhanif.29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
