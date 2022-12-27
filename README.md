@@ -1,5 +1,5 @@
-<h1 align="center">Haykal Hanif AKA "Hykalseo"</h1>
-<h3 align="center">I'm a guy who do technological business</h3>
+<h1 align="center">Haykal Hanif</h1>
+<h3 align="center">Currently A Game Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hykalseo&label=Profile%20views&color=0e75b6&style=flat" alt="hykalseo" /> </p>
 
