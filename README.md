@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad haykal hanif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad haykal hanif" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/muhammad haykal hanif](https://www.linkedin.com/in/muhammad-haykal-hanif-b5b585218/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad haykal hanif" height="30" width="40" /></a>
 <a href="https://instagram.com/hyseo_art" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hykl.404" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/the hseo'" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the hseo'" height="30" width="40" /></a>
 </p>
